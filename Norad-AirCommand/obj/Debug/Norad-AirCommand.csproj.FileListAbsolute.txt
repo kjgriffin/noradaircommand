@@ -1,0 +1,10 @@
+c:\users\kristopher_user\documents\visual studio 2015\Projects\Norad-AirCommand\Norad-AirCommand\bin\Debug\Norad-AirCommand.exe.config
+c:\users\kristopher_user\documents\visual studio 2015\Projects\Norad-AirCommand\Norad-AirCommand\bin\Debug\Norad-AirCommand.exe
+c:\users\kristopher_user\documents\visual studio 2015\Projects\Norad-AirCommand\Norad-AirCommand\bin\Debug\Norad-AirCommand.pdb
+c:\users\kristopher_user\documents\visual studio 2015\Projects\Norad-AirCommand\Norad-AirCommand\obj\Debug\Norad_AirCommand.Form1.resources
+c:\users\kristopher_user\documents\visual studio 2015\Projects\Norad-AirCommand\Norad-AirCommand\obj\Debug\Norad_AirCommand.Properties.Resources.resources
+c:\users\kristopher_user\documents\visual studio 2015\Projects\Norad-AirCommand\Norad-AirCommand\obj\Debug\Norad-AirCommand.csproj.GenerateResource.Cache
+c:\users\kristopher_user\documents\visual studio 2015\Projects\Norad-AirCommand\Norad-AirCommand\obj\Debug\Norad-AirCommand.exe
+c:\users\kristopher_user\documents\visual studio 2015\Projects\Norad-AirCommand\Norad-AirCommand\obj\Debug\Norad-AirCommand.pdb
+C:\Users\Kristopher_User\Documents\Visual Studio 2015\Projects\Norad-AirCommand\Norad-AirCommand\obj\Debug\Norad-AirCommand.csprojAssemblyReference.cache
+C:\Users\Kristopher_User\Documents\Visual Studio 2015\Projects\Norad-AirCommand\Norad-AirCommand\obj\Debug\Norad-AirCommand.csproj.CoreCompileInputs.cache
